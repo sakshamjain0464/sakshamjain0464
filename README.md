@@ -4,7 +4,6 @@
 
 <p align="left">🌱 I’m currently learning MERN STACK<br><br>👨‍💻 All of my projects are available at <a href="https://sakshamjain0464.000webhostapp.com/">https://sakshamjain0464.000webhostapp.com/</a><br><br>💬 Ask me about React, JavaScript, HTML5, CSS, Node.js, C++, Python, Java<br><br>📫 Reach me at work.saksham@yahoo.com<br><br>📄 Get my resume <a href="https://bit.ly/4bWbvRW">https://bit.ly/4bWbvRW</a></p>
 
-<hr>
 
 *Connect With Me:*
 <div align="left">
@@ -22,7 +21,7 @@
   </a>
 </div>
 
-<hr>
+### *Also got some skills*
 
 <img align="left" height="250" src="https://www.bing.com/th/id/OGC.501aeaae8758b0f6c5c7a17d9533ecae?pid=1.7&rurl=https%3a%2f%2fc.tenor.com%2fMYSg9-vUafwAAAAC%2fgoku-super-saiyan.gif&ehk=6Zioq9un6ZHiqZrMp67ECPMGY6qQWLsPaU88B%2fkOPHI%3d"  />
 
@@ -105,7 +104,7 @@
   <img src="https://streak-stats.demolab.com?user=sakshamjain0464&locale=en&mode=daily&theme=radical&hide_border=false&border_radius=5&order=3" height="150" alt="streak graph"  />
 </div>
 
-###
+<hr>
 
 <div align="center">
   <img height="200" src="https://res.cloudinary.com/practicaldev/image/fetch/s--z5X0MXQA--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_66%2Cw_880/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/j8wo9f1mou6g5469671h.gif"  />
